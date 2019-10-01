@@ -6,3 +6,6 @@ u can copy it.
 and open the folder in unity and you have the exact project as i have in the tutorials,
 
 Assests/Scripts - have all the scripts made in the tutorials.
+
+source code from those tutorials
+https://www.youtube.com/watch?v=guKs0h1it84&t
