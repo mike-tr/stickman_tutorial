@@ -1,0 +1,902 @@
+fileFormatVersion: 2
+guid: 401d24496c664d1488b982208f2a551c
+ScriptedImporter:
+  internalIDToNameTable:
+  - first:
+      1: 100040
+    second: lowerLeg.R_GO/lowerLeg.R_GO
+  - first:
+      1: 100042
+    second: lowerLeg.R_GO/lowerLeg.R_GO/chest
+  - first:
+      1: 100044
+    second: lowerLeg.R_GO/lowerLeg.R_GO/Ellipse 1
+  - first:
+      1: 100046
+    second: lowerLeg.R_GO/lowerLeg.R_GO/Ellipse 1_1
+  - first:
+      1: 100048
+    second: lowerLeg.R_GO/lowerLeg.R_GO/Ellipse 1_2
+  - first:
+      1: 100050
+    second: lowerLeg.R_GO/lowerLeg.R_GO/Ellipse 1_3
+  - first:
+      1: 100052
+    second: lowerLeg.R_GO/lowerLeg.R_GO/Ellipse 1_4
+  - first:
+      1: 100054
+    second: lowerLeg.R_GO/lowerLeg.R_GO/Ellipse 1_5
+  - first:
+      1: 100056
+    second: lowerLeg.R_GO/lowerLeg.R_GO/Ellipse 1_6
+  - first:
+      1: 100058
+    second: lowerLeg.R_GO/lowerLeg.R_GO/head
+  - first:
+      1: 100060
+    second: lowerLeg.R_GO/lowerLeg.R_GO/hip
+  - first:
+      1: 100062
+    second: lowerLeg.R_GO/lowerLeg.R_GO/lowerArm.L
+  - first:
+      1: 100064
+    second: lowerLeg.R_GO/lowerLeg.R_GO/lowerArm.R
+  - first:
+      1: 100066
+    second: lowerLeg.R_GO/lowerLeg.R_GO/lowerLeg.L
+  - first:
+      1: 100068
+    second: lowerLeg.R_GO/lowerLeg.R_GO/lowerLeg.R
+  - first:
+      1: 100070
+    second: lowerLeg.R_GO/lowerLeg.R_GO/upperArm.L
+  - first:
+      1: 100072
+    second: lowerLeg.R_GO/lowerLeg.R_GO/upperArm.R
+  - first:
+      1: 100074
+    second: lowerLeg.R_GO/lowerLeg.R_GO/UpperLeg.L
+  - first:
+      1: 100076
+    second: lowerLeg.R_GO/lowerLeg.R_GO/UpperLeg.R
+  - first:
+      4: 400040
+    second: lowerLeg.R_GO/lowerLeg.R_GO/Transform
+  - first:
+      4: 400042
+    second: lowerLeg.R_GO/lowerLeg.R_GO/chest/Transform
+  - first:
+      4: 400044
+    second: lowerLeg.R_GO/lowerLeg.R_GO/Ellipse 1/Transform
+  - first:
+      4: 400046
+    second: lowerLeg.R_GO/lowerLeg.R_GO/Ellipse 1_1/Transform
+  - first:
+      4: 400048
+    second: lowerLeg.R_GO/lowerLeg.R_GO/Ellipse 1_2/Transform
+  - first:
+      4: 400050
+    second: lowerLeg.R_GO/lowerLeg.R_GO/Ellipse 1_3/Transform
+  - first:
+      4: 400052
+    second: lowerLeg.R_GO/lowerLeg.R_GO/Ellipse 1_4/Transform
+  - first:
+      4: 400054
+    second: lowerLeg.R_GO/lowerLeg.R_GO/Ellipse 1_5/Transform
+  - first:
+      4: 400056
+    second: lowerLeg.R_GO/lowerLeg.R_GO/Ellipse 1_6/Transform
+  - first:
+      4: 400058
+    second: lowerLeg.R_GO/lowerLeg.R_GO/head/Transform
+  - first:
+      4: 400060
+    second: lowerLeg.R_GO/lowerLeg.R_GO/hip/Transform
+  - first:
+      4: 400062
+    second: lowerLeg.R_GO/lowerLeg.R_GO/lowerArm.L/Transform
+  - first:
+      4: 400064
+    second: lowerLeg.R_GO/lowerLeg.R_GO/lowerArm.R/Transform
+  - first:
+      4: 400066
+    second: lowerLeg.R_GO/lowerLeg.R_GO/lowerLeg.L/Transform
+  - first:
+      4: 400068
+    second: lowerLeg.R_GO/lowerLeg.R_GO/lowerLeg.R/Transform
+  - first:
+      4: 400070
+    second: lowerLeg.R_GO/lowerLeg.R_GO/upperArm.L/Transform
+  - first:
+      4: 400072
+    second: lowerLeg.R_GO/lowerLeg.R_GO/upperArm.R/Transform
+  - first:
+      4: 400074
+    second: lowerLeg.R_GO/lowerLeg.R_GO/UpperLeg.L/Transform
+  - first:
+      4: 400076
+    second: lowerLeg.R_GO/lowerLeg.R_GO/UpperLeg.R/Transform
+  - first:
+      28: 2800000
+    second: stickman2-Recovered
+  - first:
+      212: 21200038
+    second: lowerLeg.R_GO/lowerLeg.R_GO/chest/SpriteRenderer
+  - first:
+      212: 21200040
+    second: lowerLeg.R_GO/lowerLeg.R_GO/Ellipse 1/SpriteRenderer
+  - first:
+      212: 21200042
+    second: lowerLeg.R_GO/lowerLeg.R_GO/Ellipse 1_1/SpriteRenderer
+  - first:
+      212: 21200044
+    second: lowerLeg.R_GO/lowerLeg.R_GO/Ellipse 1_2/SpriteRenderer
+  - first:
+      212: 21200046
+    second: lowerLeg.R_GO/lowerLeg.R_GO/Ellipse 1_3/SpriteRenderer
+  - first:
+      212: 21200048
+    second: lowerLeg.R_GO/lowerLeg.R_GO/Ellipse 1_4/SpriteRenderer
+  - first:
+      212: 21200050
+    second: lowerLeg.R_GO/lowerLeg.R_GO/Ellipse 1_5/SpriteRenderer
+  - first:
+      212: 21200052
+    second: lowerLeg.R_GO/lowerLeg.R_GO/Ellipse 1_6/SpriteRenderer
+  - first:
+      212: 21200054
+    second: lowerLeg.R_GO/lowerLeg.R_GO/head/SpriteRenderer
+  - first:
+      212: 21200056
+    second: lowerLeg.R_GO/lowerLeg.R_GO/hip/SpriteRenderer
+  - first:
+      212: 21200058
+    second: lowerLeg.R_GO/lowerLeg.R_GO/lowerArm.L/SpriteRenderer
+  - first:
+      212: 21200060
+    second: lowerLeg.R_GO/lowerLeg.R_GO/lowerArm.R/SpriteRenderer
+  - first:
+      212: 21200062
+    second: lowerLeg.R_GO/lowerLeg.R_GO/lowerLeg.L/SpriteRenderer
+  - first:
+      212: 21200064
+    second: lowerLeg.R_GO/lowerLeg.R_GO/lowerLeg.R/SpriteRenderer
+  - first:
+      212: 21200066
+    second: lowerLeg.R_GO/lowerLeg.R_GO/upperArm.L/SpriteRenderer
+  - first:
+      212: 21200068
+    second: lowerLeg.R_GO/lowerLeg.R_GO/upperArm.R/SpriteRenderer
+  - first:
+      212: 21200070
+    second: lowerLeg.R_GO/lowerLeg.R_GO/UpperLeg.L/SpriteRenderer
+  - first:
+      212: 21200072
+    second: lowerLeg.R_GO/lowerLeg.R_GO/UpperLeg.R/SpriteRenderer
+  - first:
+      213: 21300000
+    second: Ellipse 1
+  - first:
+      213: 21300002
+    second: head
+  - first:
+      213: 21300004
+    second: Ellipse 1_1
+  - first:
+      213: 21300006
+    second: Ellipse 1_2
+  - first:
+      213: 21300008
+    second: chest
+  - first:
+      213: 21300010
+    second: hip
+  - first:
+      213: 21300012
+    second: Ellipse 1_3
+  - first:
+      213: 21300014
+    second: upperArm.L
+  - first:
+      213: 21300016
+    second: lowerArm.L
+  - first:
+      213: 21300018
+    second: Ellipse 1_4
+  - first:
+      213: 21300020
+    second: upperArm.R
+  - first:
+      213: 21300022
+    second: lowerArm.R
+  - first:
+      213: 21300024
+    second: Ellipse 1_5
+  - first:
+      213: 21300026
+    second: UpperLeg.L
+  - first:
+      213: 21300028
+    second: lowerLeg.L
+  - first:
+      213: 21300030
+    second: Ellipse 1_6
+  - first:
+      213: 21300032
+    second: UpperLeg.R
+  - first:
+      213: 21300034
+    second: lowerLeg.R
+  - first:
+      1001: 100100002
+    second: lowerLeg.R_GO
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Ellipse 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 228
+      y: 4
+      width: 18
+      height: 18
+    spriteID: 12b04d84c7ff42847bd290e457510e3b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -19, y: -374}
+  - name: head
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 88
+      height: 88
+    spriteID: dac38319e08a8c54f92bd319fc80c4fa
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -208, y: -398}
+  - name: Ellipse 1_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 484
+      width: 20
+      height: 20
+    spriteID: c970f3da75304194c9fe1ddb883bfed6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -208, y: 261}
+  - name: Ellipse 1_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 66
+      y: 100
+      width: 26
+      height: 26
+    spriteID: fb970ebe1ea95544ebb37d6ee7393a19
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -177, y: -194}
+  - name: chest
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 100
+      width: 26
+      height: 150
+    spriteID: 5f5aac42b9353584683a8ca30d485d4a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -239, y: -194}
+  - name: hip
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 258
+      width: 26
+      height: 100
+    spriteID: b278ba21c592d704480848853c0b674f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -239, y: 38}
+  - name: Ellipse 1_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 228
+      y: 30
+      width: 18
+      height: 18
+    spriteID: b9aedbc6204207f4a9e2b58381bf8fba
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 83, y: -348}
+  - name: upperArm.L
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 4
+      width: 120
+      height: 18
+    spriteID: e50ed312a19ece74ba0eb56fd37fb6aa
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -45, y: -374}
+  - name: lowerArm.L
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 30
+      width: 120
+      height: 18
+    spriteID: b2fbafee19e7d294290621f98bd3b3d6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 57, y: -348}
+  - name: Ellipse 1_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 228
+      y: 56
+      width: 18
+      height: 18
+    spriteID: ebaeb8f65ca1fd946a1859354b920fbb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -121, y: -322}
+  - name: upperArm.R
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 56
+      width: 120
+      height: 18
+    spriteID: 61bd8d4cb01345f49865c4080dacfe2b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -147, y: -322}
+  - name: lowerArm.R
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 82
+      width: 120
+      height: 18
+    spriteID: dc36c074654245348a13c5a9e580a87c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -249, y: -296}
+  - name: Ellipse 1_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 66
+      y: 134
+      width: 20
+      height: 20
+    spriteID: 67eda56b04d44564992f00ea621a8e9c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -180, y: 11}
+  - name: UpperLeg.L
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 366
+      width: 20
+      height: 120
+    spriteID: 87ab59ffa0a179b40a5ad69cb15d4f15
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -242, y: 243}
+  - name: lowerLeg.L
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 100
+      width: 20
+      height: 120
+    spriteID: d089a2106026bbd488d1b98aee9eaa40
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -208, y: 77}
+  - name: Ellipse 1_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 66
+      y: 162
+      width: 20
+      height: 20
+    spriteID: 751124b0352c59c42aceda6200e23be5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -180, y: 39}
+  - name: UpperLeg.R
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 228
+      width: 20
+      height: 120
+    spriteID: 737a1421c14c8104594a08c95032a044
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -208, y: 105}
+  - name: lowerLeg.R
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 356
+      width: 20
+      height: 120
+    spriteID: 8dd1e2f896a157941b8f22625575d1c2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -208, y: 333}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 256
+  importedTextureHeight: 512
+  documentSize: {x: 512, y: 512}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 256
+  textureActualHeight: 512
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Ellipse 1
+    spriteName: Ellipse 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 12b04d84c7ff42847bd290e457510e3b
+    layerID: 88
+    mosaicPosition: {x: 228, y: 4}
+  - name: head
+    spriteName: head
+    isGroup: 0
+    parentIndex: -1
+    spriteID: dac38319e08a8c54f92bd319fc80c4fa
+    layerID: 73
+    mosaicPosition: {x: 4, y: 4}
+  - name: Ellipse 1
+    spriteName: Ellipse 1_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c970f3da75304194c9fe1ddb883bfed6
+    layerID: 113
+    mosaicPosition: {x: 38, y: 484}
+  - name: Body
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 111
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ellipse 1
+    spriteName: Ellipse 1_2
+    isGroup: 0
+    parentIndex: 3
+    spriteID: fb970ebe1ea95544ebb37d6ee7393a19
+    layerID: 110
+    mosaicPosition: {x: 66, y: 100}
+  - name: chest
+    spriteName: chest
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 5f5aac42b9353584683a8ca30d485d4a
+    layerID: 68
+    mosaicPosition: {x: 4, y: 100}
+  - name: hip
+    spriteName: hip
+    isGroup: 0
+    parentIndex: 3
+    spriteID: b278ba21c592d704480848853c0b674f
+    layerID: 76
+    mosaicPosition: {x: 4, y: 258}
+  - name: leftArm
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 106
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ellipse 1
+    spriteName: Ellipse 1_3
+    isGroup: 0
+    parentIndex: 7
+    spriteID: b9aedbc6204207f4a9e2b58381bf8fba
+    layerID: 83
+    mosaicPosition: {x: 228, y: 30}
+  - name: upperArm.L
+    spriteName: upperArm.L
+    isGroup: 0
+    parentIndex: 7
+    spriteID: e50ed312a19ece74ba0eb56fd37fb6aa
+    layerID: 61
+    mosaicPosition: {x: 100, y: 4}
+  - name: lowerArm.L
+    spriteName: lowerArm.L
+    isGroup: 0
+    parentIndex: 7
+    spriteID: b2fbafee19e7d294290621f98bd3b3d6
+    layerID: 63
+    mosaicPosition: {x: 100, y: 30}
+  - name: rightArm
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 108
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ellipse 1
+    spriteName: Ellipse 1_4
+    isGroup: 0
+    parentIndex: 11
+    spriteID: ebaeb8f65ca1fd946a1859354b920fbb
+    layerID: 87
+    mosaicPosition: {x: 228, y: 56}
+  - name: upperArm.R
+    spriteName: upperArm.R
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 61bd8d4cb01345f49865c4080dacfe2b
+    layerID: 85
+    mosaicPosition: {x: 100, y: 56}
+  - name: lowerArm.R
+    spriteName: lowerArm.R
+    isGroup: 0
+    parentIndex: 11
+    spriteID: dc36c074654245348a13c5a9e580a87c
+    layerID: 86
+    mosaicPosition: {x: 100, y: 82}
+  - name: LeftLeg
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 100
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ellipse 1
+    spriteName: Ellipse 1_5
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 67eda56b04d44564992f00ea621a8e9c
+    layerID: 99
+    mosaicPosition: {x: 66, y: 134}
+  - name: UpperLeg.L
+    spriteName: UpperLeg.L
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 87ab59ffa0a179b40a5ad69cb15d4f15
+    layerID: 97
+    mosaicPosition: {x: 4, y: 366}
+  - name: lowerLeg.L
+    spriteName: lowerLeg.L
+    isGroup: 0
+    parentIndex: 15
+    spriteID: d089a2106026bbd488d1b98aee9eaa40
+    layerID: 98
+    mosaicPosition: {x: 38, y: 100}
+  - name: rightLeg
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 102
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ellipse 1
+    spriteName: Ellipse 1_6
+    isGroup: 0
+    parentIndex: 19
+    spriteID: 751124b0352c59c42aceda6200e23be5
+    layerID: 93
+    mosaicPosition: {x: 66, y: 162}
+  - name: UpperLeg.R
+    spriteName: UpperLeg.R
+    isGroup: 0
+    parentIndex: 19
+    spriteID: 737a1421c14c8104594a08c95032a044
+    layerID: 89
+    mosaicPosition: {x: 38, y: 228}
+  - name: lowerLeg.R
+    spriteName: lowerLeg.R
+    isGroup: 0
+    parentIndex: 19
+    spriteID: 8dd1e2f896a157941b8f22625575d1c2
+    layerID: 72
+    mosaicPosition: {x: 38, y: 356}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  boneGOs: []
+  generateGOHierarchy: 0
+  textureAssetName: stickman2-Recovered Texture
+  prefabAssetName: stickman2-Recovered Prefab
+  spriteLibAssetName: stickman2-Recovered Sprite Lib
