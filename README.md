@@ -1,11 +1,8 @@
-stickman_tutorial
-
-
-this is a copy of the project i use in the tutorials,
-u can copy it.
-and open the folder in unity and you have the exact project as i have in the tutorials,
+The source code for my youtube stickman tutorials!
 
 Assests/Scripts - have all the scripts made in the tutorials.
 
-source code from those tutorials
-https://www.youtube.com/watch?v=guKs0h1it84&t
+latest tutorial :
+
+How to create spiderman like ropes for ragdoll! :
+https://youtu.be/XVdeb0WaH3w
