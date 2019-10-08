@@ -21,7 +21,7 @@ public class Pull : MonoBehaviour
 
             //rg.transform.position -= (Vector3)dir * force * Time.deltaTime;
             //rg.MovePosition(rg.position + -dir * force * Time.deltaTime);
-            rg.AddForce(-dir * force * Time.deltaTime * 1000);
+            //rg.AddForce(-dir * force * Time.deltaTime * 1000);
         }
     }
 }
