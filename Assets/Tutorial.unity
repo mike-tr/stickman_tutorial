@@ -150,9 +150,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 236709416dc8cd442b5539d70a3e2b11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  line: {fileID: 177558768}
-  index0: {x: 0, y: 0}
-  index1: {x: 0, y: 0}
 --- !u!120 &177558768
 LineRenderer:
   m_ObjectHideFlags: 0
@@ -298,7 +295,8 @@ MonoBehaviour:
   origin: {fileID: 905858796}
   line_width: 0.15
   speed: 75
-  pull_force: 50
+  pull_force: 60
+  target_pull: 30
   stayTime: 1
 --- !u!50 &194782160
 Rigidbody2D:
@@ -501,6 +499,7 @@ MonoBehaviour:
   offset: {x: 0, y: 5}
   speed: 2
   size: 15
+  min_dist: 0.5
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
@@ -1354,7 +1353,8 @@ MonoBehaviour:
   origin: {fileID: 2129716359}
   line_width: 0.15
   speed: 75
-  pull_force: 50
+  pull_force: 60
+  target_pull: 30
   stayTime: 1
 --- !u!50 &1491061407
 Rigidbody2D:
@@ -1459,7 +1459,7 @@ GameObject:
   - component: {fileID: 1653358288}
   - component: {fileID: 1653358287}
   - component: {fileID: 1653358286}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: JustABox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1504,7 +1504,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 15
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1

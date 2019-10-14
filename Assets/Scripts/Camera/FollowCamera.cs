@@ -9,6 +9,7 @@ public class FollowCamera : MonoBehaviour
     public Vector2 offset = Vector2.up * 5;
     public float speed = 2;
     public float size = 20;
+    public float min_dist = 0.5f;
     void Start()
     {
         Camera cam = GetComponent<Camera>();
@@ -20,6 +21,9 @@ public class FollowCamera : MonoBehaviour
     {
         Vector2 dir = target.position - transform.position;
         dir += offset;
-        transform.position += (Vector3)dir * speed * Time.deltaTime;
+        if (dir.sqrMagnitude > min_dist * min_dist)
+        {
+            transform.position += (Vector3)dir * speed * Time.deltaTime;
+        }
     }
 }
