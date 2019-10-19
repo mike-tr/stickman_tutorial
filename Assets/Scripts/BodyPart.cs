@@ -5,6 +5,7 @@ using UnityEngine;
 public enum BodyPartType {
     body,
     hand_l,
+    hand_r,
 }
 
 public class BodyPart : MonoBehaviour
