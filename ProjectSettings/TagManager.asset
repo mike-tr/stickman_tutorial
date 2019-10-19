@@ -44,3 +44,6 @@ TagManager:
   - name: wp
     uniqueID: 3653010289
     locked: 0
+  - name: Armour
+    uniqueID: 544237897
+    locked: 0

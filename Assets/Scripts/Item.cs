@@ -4,6 +4,6 @@ using UnityEngine;
 
 public class Item : MonoBehaviour
 {
-    public float strength = 1;
-    public float magic = 10;
+    public float strength = 2;
+    public float mana = 5;
 }

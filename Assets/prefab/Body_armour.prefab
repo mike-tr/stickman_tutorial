@@ -93,5 +93,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a18752918b713a499b9bd5914dc44d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  type: 0
+  strength: 15
+  mana: 15
+  type: 1
   equip_position: {x: 0, y: -0.615}
